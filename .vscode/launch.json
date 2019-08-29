@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestePilhaParametrizada",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.pilhas.testes.TestePilhaParametrizada",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteAPI",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.pilhas.testes.TesteAPI",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Teste",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.pilhas.testes.Teste",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteParametrizadaErro",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.filas.testes.TesteParametrizadaErro",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteParametrizada",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.filas.testes.TesteParametrizada",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteAPI",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.filas.testes.TesteAPI",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Teste",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.filas.testes.Teste",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Teste",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.listasduplamenteligadas.testes.Teste",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteTamanho",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.listasligadas.testes.TesteTamanho",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteRemovePorPosicao",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.listasligadas.testes.TesteRemovePorPosicao",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteRemoveDoFim",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.listasligadas.testes.TesteRemoveDoFim",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteRemoveDoComeco",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.listasligadas.testes.TesteRemoveDoComeco",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestePegaPorPosicao",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.listasligadas.testes.TestePegaPorPosicao",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteContemElemento",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.listasligadas.testes.TesteContemElemento",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteAdicionaPorPosicao",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.listasligadas.testes.TesteAdicionaPorPosicao",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteVetorGenerico",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.vetores.testes.TesteVetorGenerico",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteTamanhoLista",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.vetores.testes.TesteTamanhoLista",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteRemovePorPosicao",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.vetores.testes.TesteRemovePorPosicao",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestePegaPorPosicao",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.vetores.testes.TestePegaPorPosicao",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteParametrizada",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.vetores.testes.TesteParametrizada",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteContemAluno",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.vetores.testes.TesteContemAluno",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteAdicionaNoFim",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.vetores.testes.TesteAdicionaNoFim",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteAdicionaNoFim",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.listasligadas.testes.TesteAdicionaNoFim",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteAdicionaNoComeco",
+            "request": "launch",
+            "mainClass": "br.com.caelum.ed.listasligadas.testes.TesteAdicionaNoComeco",
+            "projectName": "ListaLigada"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<ListaLigada>",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "ListaLigada"
+        }
+    ]
+}
